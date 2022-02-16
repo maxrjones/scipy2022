@@ -54,13 +54,13 @@ describe opportunities for feedback and contributions through GitHub issues and 
 Lastly, we will introduce the audience to our community forum as a place for Q&A, give a brief overview of some
 'good first issues', and encourage people to participate in a PyGMT sprint and our quarterly community meetings.
 
-- PyGMT repository: https://github.com/GenericMappingTools/pygmt
-- PyGMT documentation: https://www.pygmt.org/
-- PyGMT Q&A: https://forum.generic-mapping-tools.org/c/questions/pygmt-q-a/11
-- YouTube Channel: https://www.youtube.com/c/TheGenericMappingTools
-- PyGMT Community Meeting Playlist: https://www.youtube.com/playlist?list=PL3GHXjKa-p6VsIqW_ffp7ZK0lXYDfXYMA
-- 2021 AGU Presentation with Binder link and Jupyter notebooks: https://github.com/meghanrjones/agu2021
-- Quick Intro to Plotting with PyGMT (created for AGU Fall Meeting 2021): https://www.youtube.com/watch?v=Kb6TYvZcI_c
+- [PyGMT repository](https://github.com/GenericMappingTools/pygmt)
+- [PyGMT documentation](https://www.pygmt.org/)
+- [PyGMT Q&A](https://forum.generic-mapping-tools.org/c/questions/pygmt-q-a/11)
+- [YouTube Channel](https://www.youtube.com/c/TheGenericMappingTools)
+- [PyGMT Community Meeting Playlist](https://www.youtube.com/playlist?list=PL3GHXjKa-p6VsIqW_ffp7ZK0lXYDfXYMA)
+- [2021 AGU Presentation with Binder link and Jupyter notebooks](https://github.com/meghanrjones/agu2021)
+- [Quick Intro to Plotting with PyGMT (created for AGU Fall Meeting 2021)](https://www.youtube.com/watch?v=Kb6TYvZcI_c)
 
 ## Keywords (at least three)
 
