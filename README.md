@@ -4,7 +4,10 @@
 |---:|:---|
 | Conference | [SciPy 2022](https://www.scipy2022.scipy.org/) |
 | Track | Earth, Ocean, Geo, & Atmospheric |
-| Authors | [Meghan Jones](https://github.com/meghanrjones), [Wei Ji Leong](https://github.com/weiji14), [Leonardo Uieda](http://www.leouieda.com/) | 
+| Authors | [Max Jones](https://github.com/meghanrjones), [Wei Ji Leong](https://github.com/weiji14), [Leonardo Uieda](http://www.leouieda.com/) |
+| Date | July 13, 2022 |
+| Time | 10:55 - 11:25 UTC-05:00 |
+| Where | Room 204 |
 
 ## Short Summary
 
