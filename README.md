@@ -62,7 +62,7 @@ Lastly, we will introduce the audience to our community forum as a place for Q&A
 - [PyGMT Q&A](https://forum.generic-mapping-tools.org/c/questions/pygmt-q-a/11)
 - [YouTube Channel](https://www.youtube.com/c/TheGenericMappingTools)
 - [PyGMT Community Meeting Playlist](https://www.youtube.com/playlist?list=PL3GHXjKa-p6VsIqW_ffp7ZK0lXYDfXYMA)
-- [2021 AGU Presentation with Binder link and Jupyter notebooks](https://github.com/meghanrjones/agu2021)
+- [2021 AGU Presentation with Binder link and Jupyter notebooks](https://github.com/maxrjones/agu2021)
 - [Quick Intro to Plotting with PyGMT (created for AGU Fall Meeting 2021)](https://www.youtube.com/watch?v=Kb6TYvZcI_c)
 
 ## Keywords (at least three)
