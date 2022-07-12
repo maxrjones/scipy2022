@@ -95,3 +95,10 @@ The development of PyGMT has been supported by NSF grants
 M.R. Jones has been supported by [EAR-1948602](https://nsf.gov/awardsearch/showAward?AWD_ID=19486020).
 PyGMT has benefited from the contributions of [numerous developers](https://github.com/GenericMappingTools/pygmt/blob/main/AUTHORS.md)
 and [community members](https://forum.generic-mapping-tools.org/).
+
+The data visualization examples are based on the [GMT for Geodesy seismology section](https://github.com/GenericMappingTools/gmt-for-geodesy/tree/main/5_seismology)
+and the [PyGMT roads gallery example](https://www.pygmt.org/latest/gallery/lines/roads.html#sphx-glr-gallery-lines-roads-py). The data
+processing examples are based on the [EGU 2022 PyGMT short course LiDAR tutorial](https://www.generic-mapping-tools.org/egu22pygmt/lidar_to_surface.html)
+and the [PyGMT grid equalization tutorial](https://www.pygmt.org/latest/tutorials/advanced/grid_equalization.html#sphx-glr-tutorials-advanced-grid-equalization-py).
+
+Data sources are listed in the [PyGMT demo](#pygmt_demo.ipynb).

@@ -1,0 +1,11 @@
+name: scipy2022pygmt
+channels:
+  - conda-forge
+dependencies:
+  # Required dependencies
+  - pygmt
+  - geopandas
+  - laspy=2.1.2
+  - rioxarray=0.11.1
+  - pip:
+    - lazrs==0.4.3
