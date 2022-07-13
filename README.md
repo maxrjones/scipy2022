@@ -1,5 +1,7 @@
 # SciPy 2022 Talk Submission - Geospatial analysis and visualization with PyGMT
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxrjones/scipy2022/HEAD?labpath=pygmt_demo.ipynb)
+
 |    |Info|
 |---:|:---|
 | Conference | [SciPy 2022](https://www.scipy2022.scipy.org/) |
@@ -8,8 +10,6 @@
 | Date | July 13, 2022 |
 | Time | 10:55 - 11:25 UTC-05:00 |
 | Where | Room 204 |
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maxrjones/scipy2022/HEAD?labpath=pygmt_demo.ipynb)
 
 ## Short Summary
 
