@@ -10,6 +10,8 @@
 | Date | July 13, 2022 |
 | Time | 10:55 - 11:25 UTC-05:00 |
 | Where | Room 204 |
+| Presentation Video | [Geospatial Analysis & Visualization with PyGMT](https://www.youtube.com/watch?v=nCktihu9bWg&list=PLYx7XA2nY5Gfb0tQyezb4Gsf1nVsy86zt&index=6) |
+| Presentation Notebook | [pygmt_demo.ipynb](pygmt_demo.ipynb) |
 
 ## Short Summary
 
