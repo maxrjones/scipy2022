@@ -12,6 +12,7 @@
 | Where | Room 204 |
 | Presentation Video | [Geospatial Analysis & Visualization with PyGMT](https://www.youtube.com/watch?v=nCktihu9bWg&list=PLYx7XA2nY5Gfb0tQyezb4Gsf1nVsy86zt&index=6) |
 | Presentation Notebook | [pygmt_demo.ipynb](pygmt_demo.ipynb) |
+| Slides | https://doi.org/10.6084/m9.figshare.20483793 |
 
 ## Short Summary
 
